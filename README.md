@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst and Data Science
 -----------------------------
 
-trategic marketing analyst with experience working in a start-up environment collaborating directly with senior leadership to address business problems with an analytical lens and optimize marketing strategies. Established proficiency in data analysis & reporting, A/B testing, and statistical analysis to identify solutions relating to conversion, speed, KPI monitoring, projections, and strategy.
+Strategic marketing analyst with experience working in a start-up environment collaborating directly with senior leadership to address business problems with an analytical lens and optimize marketing strategies. Established proficiency in data analysis & reporting, A/B testing, and statistical analysis to identify solutions relating to conversion, speed, KPI monitoring, projections, and strategy.
 
 * 🌍  I'm based in San Francissco
 * ✉️  You can contact me at [skylareruiz@gmail.com](mailto:skylareruiz@gmail.com)
